@@ -8,7 +8,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b'
+  'https://api.xteam.xyz': 'a72abb5d0420ef3e'
 }
 global.packname = 'I hope you\'re fine'
 global.author = 'Nurutomo'
