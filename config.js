@@ -11,7 +11,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'a72abb5d0420ef3e'
 }
 global.packname = 'NodeJs WhatsApp Bot'
-global.author = 'Barxnl-Bot'
+global.author = '@barxnl'
 
 
 
